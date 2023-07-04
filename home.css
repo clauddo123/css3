@@ -93,23 +93,11 @@
   align-self: center;
   padding-top: 0px;
 }
-.home-button2 {
-  font-family: "Segoe UI", "Calibri", Tahoma, sans-serif;
-  color: #000000;
-  text-align: center;
-  left: 525px;
-  width: 78px;
-  bottom: 39px;
-  height: 18px;
-  z-index: 100;
-  position: absolute;
-  font-size: 9px;
-  box-shadow: 5px 5px 10px 0px #d4d4d4;
 .home-button {
   font-family: "Segoe UI", "Calibri", Tahoma, sans-serif;
   color: #000000;
   text-align: center;
-  left: 440px;
+  left: 525px;
   width: 78px;
   bottom: 39px;
   height: 18px;
